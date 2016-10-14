@@ -9,6 +9,6 @@ def dollar2cents(dollars):
 #Converting Gallong to Liters
 
 def gallons2liters(gallons):
-	liters = gallons * 3.78
+	liters = gallons/ 3.78
 	return(liters)
 	
