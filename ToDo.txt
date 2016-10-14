@@ -4,3 +4,8 @@ Conversion functions needed:
 -Hours to Minutes
 -Feet to Inches
 -Degrees to Radians
+
+Implementation 
+Probably better to write different functions for each conversion,
+instead of handling all conversions in a single function.
+
