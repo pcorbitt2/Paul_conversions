@@ -20,3 +20,8 @@ def feet2inches(feet):
 def hours2minutes(hours):
 	minutes = hours * 60
 	return minutes
+
+#Converting Degrees to Radians
+def degrees2radians(degrees):
+	radians = degrees * 0.17
+	return degrees
